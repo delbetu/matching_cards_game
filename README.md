@@ -1,6 +1,6 @@
 # Matching cards game
 
-Building a game similar to (this)[https://www.youtube.com/watch?v=4J1NljuLS0I]
+Building a game similar to [this](https://www.youtube.com/watch?v=4J1NljuLS0I)
 
 ## Rules
 
